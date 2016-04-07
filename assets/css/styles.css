@@ -1,0 +1,55 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+address {
+  font-style: normal;
+}
+
+#wrapper {
+  width: 100%;
+  width: calc(100% - 120px);
+  height: 100%;
+  margin: 0 auto;
+  background: #CCC;
+}
+
+#hdr, #content, #ftr {
+  padding: 5px 15px;
+}
+
+#hdr {
+  border-bottom: 5px solid black;
+  height: 65px;
+}
+#hdr nav ul {
+  list-style: none;
+}
+#hdr nav ul li {
+  display: inline-block;
+}
+#hdr nav ul li a {
+  text-decoration: none;
+  padding: 3px 10px;
+}
+
+#content {
+  min-height: 850px;
+}
+
+#ftr {
+  border-top: 5px double black;
+  height: 150px;
+  font-size: .75rem;
+}
+
+/* CLASSES */
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
+.clear {
+  clear: both;
+}
