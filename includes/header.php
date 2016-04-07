@@ -1,5 +1,5 @@
 <div id="hdr">
-  <h1 class="left">Header</h1>
+  <h1 class="left title">Header</h1>
   <nav class="right">
     <ul>
       <li><a href="../residential">Residential</a></li>

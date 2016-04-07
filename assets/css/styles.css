@@ -2,6 +2,10 @@ body {
   font-family: Helvetica, Arial, sans-serif;
 }
 
+a {
+  text-decoration: none;
+}
+
 address {
   font-style: normal;
 }
@@ -20,7 +24,7 @@ address {
 
 #hdr {
   border-bottom: 5px solid black;
-  height: 65px;
+  overflow: auto;
 }
 #hdr nav ul {
   list-style: none;
@@ -29,8 +33,11 @@ address {
   display: inline-block;
 }
 #hdr nav ul li a {
-  text-decoration: none;
+  font-weight: bold;
   padding: 3px 10px;
+}
+#hdr nav ul li a:hover {
+  color: yellow;
 }
 
 #content {
@@ -40,6 +47,7 @@ address {
 #ftr {
   border-top: 5px double black;
   height: 150px;
+  padding-top: 15px;
   font-size: .75rem;
 }
 
@@ -52,4 +60,10 @@ address {
 }
 .clear {
   clear: both;
+}
+.title {
+
+}
+.active {
+  border-bottom: 5px solid yellow;
 }
