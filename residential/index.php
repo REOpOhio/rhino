@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
-<?php include_once("../includes/head.php") ?>
+<head>
+  <title>Real Estate Oppotunity - Residential</title>
+  <?php include_once("../includes/head.php") ?>
+</head>
 <body>
   <div id="wrapper">
     <?php include_once("../includes/header.php") ?>
