@@ -1,7 +1,7 @@
 <div class="super-container header">
   <div class="container">
     <div class="logo">
-      <h1 class="left title">Header</h1>
+      <h1 class="left title"><a href="../">Real Estate Opportunity</a></h1>
     </div>
     <nav class="right">
       <ul>

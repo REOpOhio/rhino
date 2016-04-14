@@ -11,4 +11,5 @@
   </div>
   <?php include_once("../includes/javascripts.php") ?>
 </body>
+<?php include_once("../analyticstracking.php") ?>
 </html>
