@@ -1,0 +1,11 @@
+/*Change Menu color in mobile to make logo stand out*/
+
+@media only screen and (max-width: 767px){
+  .menu-background-color {
+    background: rgba(207, 206, 206, 1.0) !important;
+}
+}
+
+.home .super-container.header-image {
+    height: 750px;
+}
