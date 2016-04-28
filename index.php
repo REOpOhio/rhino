@@ -126,8 +126,8 @@
                       <div class="menu-main-menu-container">
                         <ul id="menu-main-menu" class="menu">
                           <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item"><a href="./">Home</a></li>
-                          <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2"><a href="./residential">Residential</a></li>
-                          <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2"><a href="./commercial">Commercial</a></li>
+                          <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2"><a href="./residential">Residential Sales</a></li>
+                          <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2"><a href="./commercial">Commercial Sales</a></li>
                           <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2"><a href="./rental">Property Management</a></li> -->
 
                           <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2"><a href="http://reo.appfoliowebsites5.com/">Property Management</a></li>
@@ -154,13 +154,13 @@
         <div class="container">
             <div class="one-third column box box_1 alpha">
                 <div class="container">
-                    <h2>Residential</h2>
+                    <h2>Residential Sales</h2>
                     <p>Did you know that you can now pay your rent online? It’s fast, easy, and secure, so why wait? </p>
                     <a class="box-button box-button_1" href="./residential">Learn More</a> </div>
             </div>
             <div class="one-third column box box_2">
                 <div class="container">
-                    <h2>Commercial</h2>
+                    <h2>Commercial Sales</h2>
                     <p>View our available rental properties and submit an application quickly and easily.</p>
                     <a class="box-button box-button_2" href="./commercial">Learn More</a> </div>
             </div>
