@@ -28,8 +28,8 @@
                   <div class="menu-main-menu-container">
                     <ul id="menu-main-menu" class="menu">
                       <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item"><a href="../">Home</a></li>
-                      <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2"><a href="../residential">Residential</a></li>
-                      <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2"><a href="../commercial">Commercial</a></li>
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2"><a href="../residential">Residential Sales</a></li>
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2"><a href="../commercial">Commercial Sales</a></li>
                       <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2"><a href="../rental">Property Management</a></li> -->
 
                       <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2"><a href="http://reo.appfoliowebsites5.com/">Property Management</a></li>
